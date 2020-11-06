@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dashboard
+  description: Dashboard for things
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guest
